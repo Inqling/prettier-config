@@ -1,0 +1,13 @@
+{
+  "name": "@inqling/prettier-config",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A Prettier configuration file reflecting the inqling coding standards",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Inqling Team <hey@inqling.studio>",
+  "license": "MIT",
+  "repository": "git@github.com:inqling/prettier-config.git"
+}
