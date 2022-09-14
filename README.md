@@ -20,7 +20,7 @@ $ npm install -D @inqling/prettier-config
 
 ```jsonc
 {
-  // ...
-  "prettier": "@inqling/prettier-config"
+	// ...
+	"prettier": "@inqling/prettier-config"
 }
 ```
